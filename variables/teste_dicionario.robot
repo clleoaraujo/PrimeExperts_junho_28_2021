@@ -1,5 +1,5 @@
 *** Settings ***
-Documentation     Meu teste de variaveis
+Documentation     Meu teste de variáveis com dicionário e lista
 Library    Collections
 
 *** Variables ***
